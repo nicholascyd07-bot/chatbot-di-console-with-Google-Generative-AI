@@ -9,17 +9,16 @@ Untuk menginstal dan menjalankan kode, berikut petunjuknya:
 2. Masuk ke direktori chatbot genai:
 
 ```(CMD)
-cd "genai chatbot"
+cd "chatbot-di-console-with-Google-Generative-AI"
 ```
 
-3. Buat lingkungan virtual:
+3. Buat lingkungan virtual (contoh namanya adalah 'venv'):
 
 ```
 python -m venv venv
 ```
 
 4. Aktifkan lingkungan virtual baru:
-
 ```
 venv\Scripts\activate.bat
 ```
