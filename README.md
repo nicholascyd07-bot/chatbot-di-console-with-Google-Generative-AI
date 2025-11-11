@@ -41,7 +41,7 @@ GOOGLE_API_KEY=<your-api-key>
 8. Jalankan aplikasi:
 
 ```
-python ""
+python "Chatbot menggunakan generative ai(Tanpa API key).py"
 ```
 
 ## Alat dan Pustaka (Paket) yang digunakan
@@ -51,3 +51,4 @@ google-generativeai
 ## Penggunaan
 
 Setelah aplikasi berjalan, Anda dapat mengobrol dengan Google Generative AI di konsol atau CMD Anda
+ketik /quit atau /exit untuk mengakhiri percakapan yang mana juga mengakhiri program (Break Program)
